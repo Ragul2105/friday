@@ -1,0 +1,8 @@
+.but{
+    height: 500px;
+    width: 500px;
+    color: yellow;
+}
+.but :hover{
+  color: blueviolet;
+}
